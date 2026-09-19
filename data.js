@@ -18,6 +18,7 @@ export default {
         name: "Muszelka",
         promo: "10zł",
         street: "Zwycięzców 55, Saska Kępa",
+        phone: "571 067 013",
         how: "Kawa dla zasłużonych 65+ w menu",
       },
       {
