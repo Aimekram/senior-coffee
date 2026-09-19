@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Simple coffee cup</title>
+  <desc id="desc">A hand-drawn coffee cup with a curved handle and a small curl of steam.</desc>
+
+  <g fill="none" stroke="#2b211a" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="7" d="M142 198c-1 21-2 52-1 79 2 73 13 125 49 153 20 16 42 22 69 22h77c27 0 49-6 69-22 36-28 47-80 49-153 1-27 0-58-1-79"/>
+    <path stroke-width="7" d="M143 199c3-8 11-12 22-12h236c11 0 19 4 22 12"/>
+    <path stroke-width="7" d="M413 211c35 1 62 11 76 30 15 20 18 53 8 78-11 29-38 48-83 49"/>
+    <path stroke-width="7" d="M414 230c25 2 42 9 51 23 10 16 11 40 3 58-8 18-25 29-53 31"/>
+    <path stroke-width="7" d="M270 172c-2-22 14-32 14-55 0-22-16-31-14-53 2-23 23-33 23-56"/>
+  </g>
+
+  <path fill="#8a3a0c" d="M151 199h263c-4 6-13 9-25 9H176c-12 0-21-3-25-9Z"/>
+</svg>

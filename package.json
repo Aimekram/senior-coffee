@@ -1,0 +1,8 @@
+{
+  "name": "kawa-dla-seniora",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
