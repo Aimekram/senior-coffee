@@ -3,6 +3,8 @@ export default {
   email: "kontakt@kawa-dla-seniora.pl",
   goatcounter: "aimekram", // the part before .goatcounter.com; turns on visit and click counting
   updated: "2026-09-19",
+  // title: "…", // optional: replaces the generated <title> (about 60 characters fit in search results)
+  // description: "…", // optional: replaces the generated meta description (aim for 70-160 characters)
 
   programs: {
     zoliborz: {
