@@ -1,6 +1,7 @@
 export default {
-  url: "https://twoja-domena.example", // no trailing slash
-  email: "kontakt@twoja-domena.example",
+  url: "https://kawa-dla-seniora.pl", // no trailing slash
+  email: "kontakt@kawa-dla-seniora.pl",
+  goatcounter: "aimekram", // the part before .goatcounter.com; turns on visit and click counting
   updated: "2026-09-19",
 
   programs: {

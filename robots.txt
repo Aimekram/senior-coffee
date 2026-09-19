@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://twoja-domena.example/sitemap.xml
+Sitemap: https://kawa-dla-seniora.pl/sitemap.xml
